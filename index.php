@@ -39,49 +39,49 @@
                 <h3>IPhone</h3>
             </div>
             <div class="i">
-                <a href="">
+                <a href="apple.html">
                     <img src="image/google.jpg" alt="Samsung" width="200px">
                 </a>
                 <h3>Google Pixel</h3>
             </div>
             <div class="i">
-                <a href="">
+                <a href="apple.html">
                     <img src="image/samsung.jpg" alt="Samsung" width="200px"height="200px" >
                 </a>
                 <h3>Samsang</h3>
             </div>
             <div class="i">
-                <a href="">
+                <a href="apple.html">
                     <img src="image/realme.jpg" alt="realme" width="200px">
                 </a>
                 <h3>Realme</h3>
             </div>
             <div class="i">
-                <a href="">
+                <a href="apple.html">
                     <img src="image/redme.jpg" alt="Samsung" width="200px">
                 </a>
                 <h3>Redme</h3>
             </div>
             <div class="i">
-                <a href="">
+                <a href="apple.html">
                     <img src="image/1+p.jpg" alt="realme" width="200px">
                 </a>
                 <h3>One Pluse</h3>
             </div>
             <div class="i">
-                <a href="">
+                <a href="apple.html">
                     <img src="image/Oppo-A77-Sky-Blue-1.jpg" alt="Samsung" width="200px">
                 </a>
                 <h3>Oppo</h3>
             </div>
             <div class="i">
-                <a href="">
+                <a href="apple.html">
                     <img src="image/vivo.jpg" alt="realme" width="200px">
                 </a>
                 <h3>Vivo</h3>
             </div>
             <div class="i">
-                <a href=""><img src="image/huwai.jpg" alt="realme" width="200px"></a>
+                <a href="apple.html"><img src="image/huwai.jpg" alt="realme" width="200px"></a>
                 <h3>Huwai</h3>
             </div>
         </div>
