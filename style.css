@@ -66,6 +66,7 @@ header .menu{
 }
 header a:hover{
     background-color: white;
+    color:blue;
 }
 .image{
     /* border: 1px solid black; */
